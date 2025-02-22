@@ -1,7 +1,6 @@
 # Custom Object Detection using YOLOv11
 
-This tutorial guides you through the process of creating a custom object detector for cat eyes using YOLOv11 Nano from [Ultralytics](https://www.ultralytics.com/).  
-We’ll cover the entire pipeline — from collecting and labeling data to fine-tuning a pre-trained YOLOv11 Nano model for cat eye detection.
+This tutorial guides you through the process of creating a custom object detector for cat eyes using YOLOv11 Nano from [Ultralytics](https://www.ultralytics.com/). We’ll cover the entire pipeline — from collecting and labeling data to fine-tuning a pre-trained YOLOv11 Nano model for cat eye detection.
 
 
 ****
