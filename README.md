@@ -44,7 +44,7 @@ pip install opencv-python
 
 ## 📂 Dataset Structure
 
-The dataset folder is organized as follows:
+In this repo, I have also provided my dataset for reference and conveniance. See `./dataset`. The dataset folder is organized as follows:
 
 ```
 dataset/
